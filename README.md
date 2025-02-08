@@ -11,7 +11,7 @@ Java 8+ (Swing is included by default).
 
 **Getting_Start**
 Clone the repository:
-git clone https://github.com/yourusername/contact-manager.git
+git clone [https://github.com/yourusername/contact-manager.git](https://github.com/bunhoutnub/Contact-Manger.git)
 
 **Usage**
 Add a contact by filling in the fields and clicking Add Contact.
