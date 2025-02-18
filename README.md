@@ -9,7 +9,7 @@ Data is saved in a contacts.txt file for persistence.
 # Requirements
 Java 8+ (Swing is included by default).
 
-# Getting_Start
+# Getting Start
 Clone the repository:
 https://github.com/bunhoutnub/Contact-Manger.git
 
