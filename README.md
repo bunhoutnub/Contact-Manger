@@ -1,4 +1,4 @@
-# Contact-Manger
+# Overview
 A simple Contact Manager application built using Java and Swing. This application allows users to manage contacts by adding, editing, and deleting contact information (Name, Phone, and Email). Data is persisted in a text file, making it available across app restarts.
 
 # Features
